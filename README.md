@@ -23,8 +23,8 @@ So that I can organize and plan my business
     ```bash
     npm install
     ```
-  - Create a schema of the database tables by running all thr queries in ```schema.sql```
-  -tun queries in ```seed.sql```
+  - Create a schema of the database tables by running all thr queries in ```db/schema.sql```
+  -run queries in ```db/seed.sql```
   - Start the application by running
     ```
     node server.js
@@ -33,3 +33,12 @@ So that I can organize and plan my business
     ```
     npm start
     ```
+    
+ ## bugs
+ 
+ you HAVE to fill out the department and roles before you can add an employee.
+ 
+ ## tutorial
+ 
+ https://app.castify.com/view/0e232285-ebc7-45eb-892e-29a1a600011a
+ 
