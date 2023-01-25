@@ -23,11 +23,9 @@ So that I can organize and plan my business
     ```bash
     npm install
     ```
-  - Create a schema of the database tables by running all thr queries in ```db/schema.sql```
-  -run queries in ```db/seed.sql```
   - Start the application by running
     ```
-    node server.js
+    node app.js
     ```
     or
     ```
